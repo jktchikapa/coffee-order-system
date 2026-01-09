@@ -1,2 +1,8 @@
 *.vsconfig 
 .vs/ 
+obj/ 
+*.user 
+*.suo 
+*.nupkg 
+*.log 
+*.vsconfig 
