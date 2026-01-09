@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CoffeeConsole": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
