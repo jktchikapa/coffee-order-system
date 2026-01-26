@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CoffeeConsole
+namespace CafeManagementSystem.Services
 {
-    internal class Coffee
+    internal class Inventory
     {
     }
 }

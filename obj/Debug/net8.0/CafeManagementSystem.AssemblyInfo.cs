@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CoffeeConsole")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CafeManagementSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0946d7915a5df6248ab8a0840280d055d13e53fe")]
-[assembly: System.Reflection.AssemblyProductAttribute("CoffeeConsole")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CoffeeConsole")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af3553371785558eefd4c811d77dcd47a8c52154")]
+[assembly: System.Reflection.AssemblyProductAttribute("CafeManagementSystem")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CafeManagementSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "CoffeeConsole": {
+    "CafeManagementSystem": {
       "commandName": "Project"
     },
     "Container (Dockerfile)": {

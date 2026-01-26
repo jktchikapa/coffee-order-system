@@ -1,14 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TQxOu3aXM1E=",
+  "dgSpecHash": "qEVOwTZ4DJs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jessica\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session Hiver 2026\\Programmation 2\\Exercices\\Pratique\\CoffeeConsole\\CoffeeConsole.csproj",
+  "projectFilePath": "C:\\Users\\2551439\\Source\\Repos\\cafe-management\\CoffeeConsole.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jessica\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512",
-    "C:\\Users\\jessica\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
-    "C:\\Users\\jessica\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
-    "C:\\Users\\jessica\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
-    "C:\\Users\\jessica\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+    "C:\\Users\\2551439\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,10 +1,11 @@
-﻿namespace CoffeeConsole
+﻿namespace CafeManagementSystem
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            CafeManager manager = new CafeManager();
+            manager.Run();
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2551439\\Source\\Repos\\cafe-management\\CoffeeConsole.csproj": {}
+    "C:\\Users\\2551439\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session Hiver 2026\\Programmation 2\\Projects\\CafeManagementSystem\\CafeManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2551439\\Source\\Repos\\cafe-management\\CoffeeConsole.csproj": {
+    "C:\\Users\\2551439\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session Hiver 2026\\Programmation 2\\Projects\\CafeManagementSystem\\CafeManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2551439\\Source\\Repos\\cafe-management\\CoffeeConsole.csproj",
-        "projectName": "CoffeeConsole",
-        "projectPath": "C:\\Users\\2551439\\Source\\Repos\\cafe-management\\CoffeeConsole.csproj",
+        "projectUniqueName": "C:\\Users\\2551439\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session Hiver 2026\\Programmation 2\\Projects\\CafeManagementSystem\\CafeManagementSystem.csproj",
+        "projectName": "CafeManagementSystem",
+        "projectPath": "C:\\Users\\2551439\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session Hiver 2026\\Programmation 2\\Projects\\CafeManagementSystem\\CafeManagementSystem.csproj",
         "packagesPath": "C:\\Users\\2551439\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2551439\\Source\\Repos\\cafe-management\\obj\\",
+        "outputPath": "C:\\Users\\2551439\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session Hiver 2026\\Programmation 2\\Projects\\CafeManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CoffeeConsole
+namespace CafeManagementSystem.Models
 {
-    internal class Utils
+    public enum Size
     {
+        Small,
+        Medium,
+        Large
     }
 }

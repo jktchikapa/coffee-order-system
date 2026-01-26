@@ -1,0 +1,15 @@
+C:\Users\2551439\Source\Repos\cafe-management\bin\Debug\net8.0\CoffeeConsole.exe
+C:\Users\2551439\Source\Repos\cafe-management\bin\Debug\net8.0\CoffeeConsole.deps.json
+C:\Users\2551439\Source\Repos\cafe-management\bin\Debug\net8.0\CoffeeConsole.runtimeconfig.json
+C:\Users\2551439\Source\Repos\cafe-management\bin\Debug\net8.0\CoffeeConsole.dll
+C:\Users\2551439\Source\Repos\cafe-management\bin\Debug\net8.0\CoffeeConsole.pdb
+C:\Users\2551439\Source\Repos\cafe-management\obj\Debug\net8.0\CoffeeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2551439\Source\Repos\cafe-management\obj\Debug\net8.0\CoffeeConsole.AssemblyInfoInputs.cache
+C:\Users\2551439\Source\Repos\cafe-management\obj\Debug\net8.0\CoffeeConsole.AssemblyInfo.cs
+C:\Users\2551439\Source\Repos\cafe-management\obj\Debug\net8.0\CoffeeConsole.csproj.CoreCompileInputs.cache
+C:\Users\2551439\Source\Repos\cafe-management\obj\Debug\net8.0\CoffeeConsole.sourcelink.json
+C:\Users\2551439\Source\Repos\cafe-management\obj\Debug\net8.0\CoffeeConsole.dll
+C:\Users\2551439\Source\Repos\cafe-management\obj\Debug\net8.0\refint\CoffeeConsole.dll
+C:\Users\2551439\Source\Repos\cafe-management\obj\Debug\net8.0\CoffeeConsole.pdb
+C:\Users\2551439\Source\Repos\cafe-management\obj\Debug\net8.0\CoffeeConsole.genruntimeconfig.cache
+C:\Users\2551439\Source\Repos\cafe-management\obj\Debug\net8.0\ref\CoffeeConsole.dll
