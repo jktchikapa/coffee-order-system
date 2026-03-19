@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qEVOwTZ4DJs=",
+  "dgSpecHash": "uMn77KUY1ng=",
   "success": true,
-  "projectFilePath": "C:\\Users\\2551439\\Source\\Repos\\cafe-management\\CoffeeConsole.csproj",
+  "projectFilePath": "C:\\Users\\Jessica\\cafe-management\\CafeManagementSystem.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\2551439\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+    "C:\\Users\\Jessica\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
   ],
   "logs": []
 }

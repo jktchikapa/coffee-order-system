@@ -28,3 +28,18 @@ C:\Users\2551439\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session Hiver 2026\Pr
 C:\Users\2551439\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session Hiver 2026\Programmation 2\Projects\CafeManagementSystem\obj\Debug\net8.0\CafeManagementSystem.pdb
 C:\Users\2551439\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session Hiver 2026\Programmation 2\Projects\CafeManagementSystem\obj\Debug\net8.0\CafeManagementSystem.genruntimeconfig.cache
 C:\Users\2551439\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session Hiver 2026\Programmation 2\Projects\CafeManagementSystem\obj\Debug\net8.0\ref\CafeManagementSystem.dll
+C:\Users\Jessica\cafe-management\obj\Debug\net8.0\CafeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica\cafe-management\obj\Debug\net8.0\CafeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Jessica\cafe-management\obj\Debug\net8.0\CafeManagementSystem.AssemblyInfo.cs
+C:\Users\Jessica\cafe-management\obj\Debug\net8.0\CafeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\cafe-management\obj\Debug\net8.0\CafeManagementSystem.sourcelink.json
+C:\Users\Jessica\cafe-management\obj\Debug\net8.0\CafeManagementSystem.dll
+C:\Users\Jessica\cafe-management\obj\Debug\net8.0\refint\CafeManagementSystem.dll
+C:\Users\Jessica\cafe-management\obj\Debug\net8.0\CafeManagementSystem.pdb
+C:\Users\Jessica\cafe-management\bin\Debug\net8.0\CafeManagementSystem.exe
+C:\Users\Jessica\cafe-management\bin\Debug\net8.0\CafeManagementSystem.deps.json
+C:\Users\Jessica\cafe-management\bin\Debug\net8.0\CafeManagementSystem.runtimeconfig.json
+C:\Users\Jessica\cafe-management\bin\Debug\net8.0\CafeManagementSystem.dll
+C:\Users\Jessica\cafe-management\bin\Debug\net8.0\CafeManagementSystem.pdb
+C:\Users\Jessica\cafe-management\obj\Debug\net8.0\CafeManagementSystem.genruntimeconfig.cache
+C:\Users\Jessica\cafe-management\obj\Debug\net8.0\ref\CafeManagementSystem.dll

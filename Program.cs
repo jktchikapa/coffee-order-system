@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            CafeManager manager = new CafeManager();
-            manager.Run();
+            GestionCafe gestion = new GestionCafe();
+            gestion.Demarrer();
         }
     }
 }

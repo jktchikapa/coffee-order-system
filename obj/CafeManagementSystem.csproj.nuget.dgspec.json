@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2551439\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session Hiver 2026\\Programmation 2\\Projects\\CafeManagementSystem\\CafeManagementSystem.csproj": {}
+    "C:\\Users\\Jessica\\cafe-management\\CafeManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2551439\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session Hiver 2026\\Programmation 2\\Projects\\CafeManagementSystem\\CafeManagementSystem.csproj": {
+    "C:\\Users\\Jessica\\cafe-management\\CafeManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2551439\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session Hiver 2026\\Programmation 2\\Projects\\CafeManagementSystem\\CafeManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Jessica\\cafe-management\\CafeManagementSystem.csproj",
         "projectName": "CafeManagementSystem",
-        "projectPath": "C:\\Users\\2551439\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session Hiver 2026\\Programmation 2\\Projects\\CafeManagementSystem\\CafeManagementSystem.csproj",
-        "packagesPath": "C:\\Users\\2551439\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2551439\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session Hiver 2026\\Programmation 2\\Projects\\CafeManagementSystem\\obj\\",
+        "projectPath": "C:\\Users\\Jessica\\cafe-management\\CafeManagementSystem.csproj",
+        "packagesPath": "C:\\Users\\Jessica\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jessica\\cafe-management\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\2551439\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jessica\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,10 +26,12 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -44,10 +46,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
@@ -71,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
